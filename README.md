@@ -1,6 +1,6 @@
 # chromadb_ViT_food
 
-11종 음식 분류를 위한 chromad 내 DINO-ViT-S/16 모델 적용 및 이미지 분류
+총 11종의 음식 이미지 분류를 위한 chromad 내 DINO-ViT-S/16 모델 적용 
 
 <img src="image/result_food_meat.png">
 <img src="image/result_food_soup.png">
