@@ -1,6 +1,6 @@
 # chromadb_ViT_food
 
-11종 음식 분류에 대한 chromad 내 Vit 모델 적용 및 예측 정확도 측정
+11종 음식 분류를 위한 chromad 내 DINO-ViT-S/16 모델 적용 및 이미지 분류
 
 <img src="image/result_food_meat.png">
 <img src="image/result_food_soup.png">
