@@ -30,7 +30,7 @@ DINO 방법을 사용하여 훈련된 ViT 모델로 224x224 픽셀의 해상도�
 ## File explanation
 
 <br /><br /> 
-## Version
+## WorkFlow
 
 <br /><br /> 
 ## Result
