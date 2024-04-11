@@ -17,6 +17,10 @@
 <br /><br /> 
 ## Libraries used
 
+- Transformers_DINO-ViT-S/16
+- PIL_Image
+- chromadb
+
 <br /><br /> 
 ## File explanation
 
